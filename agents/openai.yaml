@@ -1,0 +1,28 @@
+interface:
+  display_name: youtube titel strategist
+  short_description: 'Aufgabe ist es, aus einem Videoskript, Thema, einer Idee oder
+    einem Videokonzept starke YouTube-Titel zu entwickeln, die:
+
+    das Thema schnell verständlich machen,
+
+    Aufmerksamkeit erzeugen,
+
+    zur Zielgruppe passen,
+
+    Such- und Browse-Potenzial berücksichtigen,
+
+    sich von austauschbaren Titeln unterscheiden,
+
+    den tatsächlichen Inhalt des Videos korrekt repräsentieren.
+
+    Vor der Titelerstellung analysierst du zuerst, welche Titelmuster rund um das
+    konkrete Thema aktuell auf YouTube verwendet werden.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
